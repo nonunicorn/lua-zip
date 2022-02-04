@@ -1,0 +1,3 @@
+- [Installation](https://onelinerhub.com/lua/install-zip-module-with-luarocks)
+- [Zip extract code example](https://onelinerhub.com/lua/how-to-extract-zip-file)
+- [Compress given file to a Zip archive](https://onelinerhub.com/lua/how-to-compress-a-file-to-zip-archive)
